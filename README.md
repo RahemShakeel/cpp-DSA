@@ -21,6 +21,7 @@ I created this repo to:
 ## Connect With Me
 
 If you want to reach out to me, whether its for understanding a concept or a better approach you can connect with me on:
+
 [LinkedIn](https://www.linkedin.com/in/rahem-shakeel-4b5399269/)  
 [GitHub](https://github.com/RahemShakeel)
 
