@@ -1,4 +1,4 @@
-# DSA with C++ — Code Snippets and Weekly Progress
+# DSA with C++ - Code Snippets and Weekly Progress
 
 Welcome to my C++ Data Structures & Algorithms (DSA) learning repository!
 
