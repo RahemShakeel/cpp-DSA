@@ -1,4 +1,4 @@
-# Week 1 — Introduction to C++ & DSA Basics
+# Week 1 - Introduction to C++ & DSA Basics
 
 Welcome to Week 1 of my DSA with C++ learning journey. This week focused on building foundational programming knowledge through core concepts and hands-on coding.
 
