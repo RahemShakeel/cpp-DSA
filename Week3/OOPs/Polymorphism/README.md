@@ -27,7 +27,7 @@ Polymorphism is broadly divided into two categories:
 
 ---
 
-## 🎯 Purpose of Polymorphism
+## Purpose of Polymorphism
 - Increases **code flexibility and reusability**.  
 - Supports **extensibility** without modifying existing code.  
 - Makes programs more **dynamic and modular**.  
